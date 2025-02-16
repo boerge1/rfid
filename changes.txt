@@ -1,6 +1,7 @@
 -- Add changes to unreleased tag until we make a release.
 
-xxxxx , v1.4.12
+16 Feb 2024, v1.4.11a
+- fix: compiler error with very new c++ compiler
 
 30 Dec 2023, v1.4.11
 - fix: documentation
